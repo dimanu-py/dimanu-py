@@ -4,11 +4,11 @@
 
 ### ⚡ Quick introduction
 
-- 🔭 I’m currently working at [Frenetic Electronics](https://frenetic.ai/) as a Software Python Developer
-- 🌱 I’m currently learning good code practices and software engineering
-- 💼 I'm open to participating in freelance projects
-- 🧠 I’m interested in Artificial Intelligence and its application to Computer Neuroscience
-- 💻 I studied Electronic Engineering and ended up as a Software Developer once I discovered this world
+- 🔭 Currently working at [Frenetic Electronics](https://frenetic.ai/) as a Software Python Developer.
+- 🌱 Passionate about clean code practices and software engineering.
+- 💼 Open to participating in freelance projects.
+- 🧠 My main interest lies in Artificial Intelligence and its application to Computer Neuroscience.
+- 💻 With a background in Electronic Engineering, my journey led to a professional career in Software Development after discovering the fascinating world of coding.
 
 ### 🤖 Technologies
 
