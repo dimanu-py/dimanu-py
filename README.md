@@ -47,6 +47,7 @@
   <a href="https://github.com/dimanu-py/gilded-rose-kata"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=gilded-rose-kata&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="gilded-rose-kata"></a>
   <a href="https://github.com/dimanu-py/simple-mars-rover-kata"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=simple-mars-rover-kata&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-mars-rover-kata"></a>
   <a href="https://github.com/dimanu-py/trip-service-kata"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=trip-service-kata&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="trip-service-kata"></a>
+  <a href="https://github.com/dimanu-py/theatrical-player-refactoring-kata"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=theatrical-player-refactoring-kata&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="theatrical-player-refactoring-kata"></a>
 </p>
 
 ### ⚙️ Dotfiles
