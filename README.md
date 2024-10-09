@@ -30,8 +30,6 @@
 [![X/Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/diegomn12)
 
 ## 💻 Main projects
-
-### 📚 Learning
 <p align="left">
   <a href="https://github.com/dimanu-py/design-patterns"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=design-patterns&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="design-patterns"></a>
   <a href="https://github.com/dimanu-py/code-katas"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=code-katas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="code-katas"></a>
