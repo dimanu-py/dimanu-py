@@ -34,26 +34,9 @@
 ### 📚 Learning
 <p align="left">
   <a href="https://github.com/dimanu-py/design-patterns"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=design-patterns&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="design-patterns"></a>
-  <a href="https://github.com/dimanu-py/fast-api"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=fast-api&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="fast-api"></a>
-  <a href="https://github.com/dimanu-py/learning-bash-scripting"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=learning-bash-scripting&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="learning-bash-scripting"></a>
-  <a href="https://github.com/dimanu-py/python-custom-builtin"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=python-custom-builtin&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="python-custom-builtin"></a>
-</p>
-
-### 🏋️ Funniest katas
-<p align="left">
   <a href="https://github.com/dimanu-py/code-katas"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=code-katas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="code-katas"></a>
-  <a href="https://github.com/dimanu-py/parallel-change-kata"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=parallel-change-kata&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="parallel-change-kata"></a>
-  <a href="https://github.com/dimanu-py/gilded-rose-kata"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=gilded-rose-kata&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="gilded-rose-kata"></a>
-  <a href="https://github.com/dimanu-py/simple-mars-rover-kata"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=simple-mars-rover-kata&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="simple-mars-rover-kata"></a>
-  <a href="https://github.com/dimanu-py/trip-service-kata"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=trip-service-kata&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="trip-service-kata"></a>
-  <a href="https://github.com/dimanu-py/theatrical-player-refactoring-kata"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=theatrical-player-refactoring-kata&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="theatrical-player-refactoring-kata"></a>
-</p>
-
-### ⚙️ Dotfiles
-<p align="left">
   <a href="https://github.com/dimanu-py/dotfiles"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=dotfiles&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="dotfiles"></a>
-  <a href="https://github.com/dimanu-py/monitor-setup"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=monitor-setup&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="monitor-setup"></a>
-  <a href="https://github.com/dimanu-py/git-config"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=git-config&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="git-config"></a>
+  <a href="https://github.com/dimanu-py/how-to-design-relational-databases"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=how-to-design-relational-databases&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="how-to-design-relational-databases"></a>
 </p>
 
 <!-- 
