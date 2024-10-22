@@ -2,7 +2,7 @@
 
 ## ⚡️ Quick introduction
 
-- 🔭 Currently working at [Frenetic Electronics](https://frenetic.ai/) as a Backend Developer.
+- 🔭 Currently working at [Trevenque Group](https://www.trevenque.es/) as a Backend Developer.
 - 🌱 Passionate about clean code practices and software engineering.
 - 💼 Open to participating in freelance projects.
 - 🧠 My main interest outside software lies in Artificial Intelligence and its application to Computer Neuroscience.
