@@ -32,7 +32,7 @@
 ## 💻 Main projects
 <p align="left">
   <a href="https://github.com/dimanu-py/design-patterns"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=design-patterns&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="design-patterns"></a>
-  <a href="https://github.com/dimanu-py/code-katas"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=code-katas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="code-katas"></a>
+  <a href="https://github.com/dimanu-py/python-code-katas"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=python-code-katas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="python-code-katas"></a>
   <a href="https://github.com/dimanu-py/dotfiles"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=dotfiles&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="dotfiles"></a>
   <a href="https://github.com/dimanu-py/how-to-design-relational-databases"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=how-to-design-relational-databases&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="how-to-design-relational-databases"></a>
 </p>
