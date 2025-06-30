@@ -31,12 +31,83 @@
 
 ## 💻 Main projects
 <p align="left">
-  <a href="https://github.com/dimanu-py/instant-python"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=instant-python&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="instant-python"></a>
-  <a href="https://github.com/dimanu-py/notion-graph-view"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=notion-graph-view&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="notion-graph-view"></a>
-    <a href="https://github.com/dimanu-py/e-commerce"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=e-commerce&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="e-commerce"></a>
-    <a href="https://github.com/dimanu-py/codenet"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=codenet&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="codenet"></a>
-  <a href="https://github.com/dimanu-py/python-code-katas"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=python-code-katas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="python-code-katas"></a>
-  <a href="https://github.com/dimanu-py/how-to-design-relational-databases"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=dimanu-py&repo=how-to-design-relational-databases&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="how-to-design-relational-databases"></a>
+    <a href="https://github.com/dimanu-py/instant-python">
+    <img
+      width="400"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py
+            &repo=instant-python
+            &theme=react
+            &bg_color=1F222E
+            &title_color=F85D7F
+            &icon_color=F8D866
+            &hide_border=true"
+      alt="instant-python"/>
+  </a>
+  <a href="https://github.com/dimanu-py/notion-graph-view">
+    <img
+      width="400"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py
+           &repo=notion-graph-view
+           &theme=react
+           &bg_color=1F222E
+           &title_color=F85D7F
+           &icon_color=F8D866
+           &hide_border=true
+           &show_icons=false"
+      alt="notion-graph-view"/>
+  </a>
+  <a href="https://github.com/dimanu-py/e-commerce">
+    <img
+      width="400"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py
+           &repo=e-commerce
+           &theme=react
+           &bg_color=1F222E
+           &title_color=F85D7F
+           &icon_color=F8D866
+           &hide_border=true
+           &show_icons=false"
+      alt="e-commerce"/>
+  </a>
+  <a href="https://github.com/dimanu-py/codenet">
+    <img
+      width="400"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py
+           &repo=codenet
+           &theme=react
+           &bg_color=1F222E
+           &title_color=F85D7F
+           &icon_color=F8D866
+           &hide_border=true
+           &show_icons=false"
+      alt="codenet"/>
+  </a>
+  <a href="https://github.com/dimanu-py/python-code-katas">
+    <img
+      width="400"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py
+           &repo=python-code-katas
+           &theme=react
+           &bg_color=1F222E
+           &title_color=F85D7F
+           &icon_color=F8D866
+           &hide_border=true
+           &show_icons=false"
+      alt="python-code-katas"/>
+  </a>
+  <a href="https://github.com/dimanu-py/how-to-design-relational-databases">
+    <img
+      width="400"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py
+           &repo=how-to-design-relational-databases
+           &theme=react
+           &bg_color=1F222E
+           &title_color=F85D7F
+           &icon_color=F8D866
+           &hide_border=true
+           &show_icons=false"
+      alt="how-to-design-relational-databases"/>
+  </a>
 </p>
 
 <!-- 
