@@ -32,9 +32,9 @@
 ## 💻 Main projects
 
 [![instant-python](https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py&repo=instant-python&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/dimanu-py/instant-python)
-[![sindri](https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py&repo=sindri&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/dimanu-py/sindri)
+[![value-object-sindri](https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py&repo=value-object&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/dimanu-py/value-object)
+[![object-mother-sindri](https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py&repo=object-mother&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/dimanu-py/object-mother)
 [![notion-graph-view](https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py&repo=notion-graph-view&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/dimanu-py/notion-graph-view)
-[![e-commerce](https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py&repo=e-commerce&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/dimanu-py/e-commerce)
 [![codenet](https://github-readme-stats.vercel.app/api/pin/?username=dimanu-py&repo=codenet&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/dimanu-py/codenet)
 [![programming-katas](https://github-readme-stats.vercel.app/api/pin/?username=dimanu-katas&repo=programming-katas&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/orgs/dimanu-katas/repositories)
 
